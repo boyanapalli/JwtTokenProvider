@@ -1,0 +1,8 @@
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\bin\Debug\netcoreapp1.1\JwtTokenProvider.deps.json
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\bin\Debug\netcoreapp1.1\JwtTokenProvider.runtimeconfig.json
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\bin\Debug\netcoreapp1.1\JwtTokenProvider.runtimeconfig.dev.json
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\bin\Debug\netcoreapp1.1\JwtTokenProvider.dll
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\obj\Debug\netcoreapp1.1\JwtTokenProvider.AssemblyInfo.cs
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\bin\Debug\netcoreapp1.1\JwtTokenProvider.pdb
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\obj\Debug\netcoreapp1.1\JwtTokenProvider.dll
+c:\users\rboyanapalli\documents\visual studio 2017\Projects\JwtTokenProvider\JwtTokenProvider\obj\Debug\netcoreapp1.1\JwtTokenProvider.pdb
