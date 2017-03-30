@@ -10482,10 +10482,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\rboyanapalli\\documents\\visual studio 2017\\Projects\\JwtTokenProvider\\JwtTokenProvider\\JwtTokenProvider.csproj",
+      "projectUniqueName": "C:\\Users\\rboyanapalli\\Documents\\GitHub\\JwtTokenProvider\\JwtTokenProvider\\JwtTokenProvider.csproj",
       "projectName": "JwtTokenProvider",
-      "projectPath": "c:\\users\\rboyanapalli\\documents\\visual studio 2017\\Projects\\JwtTokenProvider\\JwtTokenProvider\\JwtTokenProvider.csproj",
-      "outputPath": "c:\\users\\rboyanapalli\\documents\\visual studio 2017\\Projects\\JwtTokenProvider\\JwtTokenProvider\\obj\\",
+      "projectPath": "C:\\Users\\rboyanapalli\\Documents\\GitHub\\JwtTokenProvider\\JwtTokenProvider\\JwtTokenProvider.csproj",
+      "outputPath": "C:\\Users\\rboyanapalli\\Documents\\GitHub\\JwtTokenProvider\\JwtTokenProvider\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
